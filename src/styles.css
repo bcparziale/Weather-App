@@ -1,0 +1,38 @@
+body {
+  background-color: #f4f4f4;
+}
+.temp {
+  margin: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.date {
+  margin: 30px;
+  font-size: 35px;
+  text-align: center;
+}
+
+form {
+  margin: 20px;
+}
+
+.Tue,
+.Wed,
+.Thu,
+.Fri,
+.Sat {
+  background: rgb(195, 34, 34);
+  background: linear-gradient(0deg, rgb(13, 71, 82) 0%, rgb(45, 194, 253) 100%);
+  border-radius: 15px;
+  text-align: left;
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 18px;
+  color: #f4f4f4;
+  padding: 32px;
+  margin: 30px;
+}
+
+.emoji {
+  text-align: right;
+}
